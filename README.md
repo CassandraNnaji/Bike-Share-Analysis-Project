@@ -8,3 +8,17 @@ The primary stakeholders for this project include Lily Moreno, the Director of M
 
 # Data Understanding
 The data utilized was provided by Motivate International Inc. It encompasses 12 months of Cyclistic trip data, spanning quarters 2, 3, and 4 of 2019, as well as quarter 1 of 2020.
+
+# Conclusion 
+- During the winter months (Nov, Dec, Jan, Feb), ride numbers understandably decrease due to colder weather, making biking less ideal. To incentivize casual riders during this period, I recommend offering discounted memberships, ensuring they're set for increased bike usage once warmer months arrive.
+
+- Given that casual riders tend to have longer trip durations, targeted ads and promotions can be designed to appeal to this demographic, encouraging them to take advantage of Cyclistic services.
+
+- Focusing on the top 3 start stations—'Streeter Dr & Grand Ave', 'Canal St & Adams St', and 'Lake Shore Dr & Monroe St'—membership promotions can be strategically implemented to attract more users.
+
+- To boost trip numbers during weekdays, attractive promotions can be crafted specifically for casual users, enticing them to utilize Cyclistic services more frequently.
+
+
+
+
+
