@@ -9,6 +9,12 @@ The primary stakeholders for this project include Lily Moreno, the Director of M
 # Data Understanding
 The data utilized was provided by Motivate International Inc. It encompasses 12 months of Cyclistic trip data, spanning quarters 2, 3, and 4 of 2019, as well as quarter 1 of 2020.
 
+# Evaluation 
+![image](https://github.com/CassandraNnaji/Bike-Share-Analysis-Project/assets/120784310/5dcb2aa9-24ab-4825-b7c9-df67506af2d9)
+
+- Analysis: The graph illustrates that "members" consistently take more trips per day compared to "casual" users. Additionally, "casual" users exhibit a spike in rides over the weekend, whereas "members" peak on Tuesday and Wednesday
+
+
 # Conclusion 
 - During the winter months (Nov, Dec, Jan, Feb), ride numbers understandably decrease due to colder weather, making biking less ideal. To incentivize casual riders during this period, I recommend offering discounted memberships, ensuring they're set for increased bike usage once warmer months arrive.
 
