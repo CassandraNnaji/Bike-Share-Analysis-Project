@@ -14,6 +14,16 @@ The data utilized was provided by Motivate International Inc. It encompasses 12 
 
 - Analysis: The graph illustrates that "members" consistently take more trips per day compared to "casual" users. Additionally, "casual" users exhibit a spike in rides over the weekend, whereas "members" peak on Tuesday and Wednesday
 
+![image](https://github.com/CassandraNnaji/Bike-Share-Analysis-Project/assets/120784310/1bdf5c75-4447-4de8-b2c1-23592aab4e1a)
+
+- Analysis: The graph illustrates that "casual" users consistently have longer average trip durations compared to "members" across all days of the week. While "casual" users take fewer trips overall compared to "members," their trip durations are significantly higher. This suggests that although "members" take more trips, they tend to have shorter durations per trip.
+
+![image](https://github.com/CassandraNnaji/Bike-Share-Analysis-Project/assets/120784310/3867ddd3-0810-4c8d-a7cd-acf2d800f99b)
+
+- Analysis: The graph indicates that both user types experience the highest number of rides during the months of June, July, August, and September. This trend aligns with the summer season, which typically sees increased outdoor activities such as biking. August stands out as the month with the highest number of rides for both user types, suggesting it may be a peak period for bike usage among Cyclistic customers.
+
+
+
 
 # Conclusion 
 - During the winter months (Nov, Dec, Jan, Feb), ride numbers understandably decrease due to colder weather, making biking less ideal. To incentivize casual riders during this period, I recommend offering discounted memberships, ensuring they're set for increased bike usage once warmer months arrive.
